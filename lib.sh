@@ -1,3 +1,3 @@
-welcome() {
+greet() {
   echo "hello from lib"
 }
