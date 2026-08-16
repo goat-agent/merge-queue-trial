@@ -1,3 +1,3 @@
-greet() {
+hail() {
   echo "hello from lib"
 }
