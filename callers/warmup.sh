@@ -1,0 +1,2 @@
+greet
+echo "warm up"
