@@ -2,3 +2,5 @@ version: 1
 
 queues:
   - branch: main
+    batch_size: 1
+    speculate: 2
