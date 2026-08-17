@@ -1,2 +1,2 @@
-hail
+salute
 echo "live a"

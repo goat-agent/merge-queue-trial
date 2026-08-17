@@ -1,2 +1,2 @@
-hail
+salute
 echo "fast 22"
