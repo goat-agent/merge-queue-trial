@@ -1,2 +1,2 @@
-greet
+hail
 echo "warm up"
