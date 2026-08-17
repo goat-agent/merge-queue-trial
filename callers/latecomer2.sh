@@ -1,0 +1,2 @@
+greet
+echo "another latecomer"
