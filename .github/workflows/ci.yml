@@ -8,6 +8,8 @@ on:
 jobs:
   test:
     runs-on: ubuntu-latest
+    env:
+      CI_SECONDS: ${{ vars.CI_SECONDS }}
     steps:
       - uses: actions/checkout@v5
       - run: bash ci.sh
