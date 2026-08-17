@@ -1,2 +1,2 @@
-greet
+hail
 echo "fast 09"
