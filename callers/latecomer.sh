@@ -1,2 +1,2 @@
 hail
-echo "written before the rename landed"
+echo "a latecomer"
