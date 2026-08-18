@@ -1,0 +1,2 @@
+greet
+echo "not ready"
